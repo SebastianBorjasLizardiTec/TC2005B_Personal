@@ -11,11 +11,12 @@ This is my personal repository, where I will be uploading all my personal homewo
 ![GameOver](./Assets_ReadMe/istockphoto-1325433246-640x640.jpg)
 
 ### Code Snippets
-'''def add(a,b):'''
-    c = a + b
-    return c
+``` def add(a,b): ```
+```     c = a + b ```
+```     return c ```
 
-sum = add(1,2)'''
+```sum = add(1,2) ```
+
 
 
 ## References:
