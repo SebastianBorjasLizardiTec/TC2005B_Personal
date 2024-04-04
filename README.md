@@ -10,7 +10,7 @@ This is my personal repository, where I will be uploading all my personal homewo
 
 ![GameOver](./Assets_ReadMe/istockphoto-1325433246-640x640.jpg)
 
-![GameOver](./Assets_ReadMe/Tec.png)
+![GameOver](./Assets_ReadMe/images.png)
 
 ### Code Snippets
 
