@@ -18,6 +18,13 @@ def add(a,b):
 
 sum = add(1,2)
 ```
+
+### Tasklist
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+      
 ## References:
 
 [Github documentation](https://docs.github.com/en)
